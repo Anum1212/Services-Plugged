@@ -1,0 +1,282 @@
+/* written by anum amir */
+
+/* -------------------- Mobile Display -------------------- */
+@media only screen and (max-width: 599px) {
+
+    /* ----- find-pros-banner  ----- */
+    #find-pros-banner {
+        margin-top: 5px;
+        min-height: 150px;
+    }
+
+    /* ----- find-pros-banner points ----- */
+    #find-pros-banner .find-pros-point {
+        font-size: 1em;
+        text-align: center
+    }
+
+    /* ----- top categories col-xs ----- */
+    #top-categories .col-xs-12 {
+        margin: 0px;
+    }
+
+    /* ----- join us Section ----- */
+    .joinUs {
+        padding: 25px 10px 25px 10px;
+    }
+
+    /* ----- join us button ----- */
+    .joinUs .joinUsBtn {
+        margin-top: 15px;
+        margin-left: -10px;
+    }
+
+    /* ----- download App Section image ----- */
+    #downloadAppSectionImage img {
+        height: 350px;
+    }
+
+    /* ----- download App Section Link button ----- */
+    #downloaAppSectionAppLinkBtn {
+        margin: auto;
+        margin-top: 15px;
+    }
+
+    /* ----- blog section heading ----- */
+    #blogSectionHeading h2 {
+        line-height: 1em;
+    }
+
+    /* ----- trusted professionals ----- */
+    #trustedProfessionals {
+        border-top: 1px solid #a6a6a6;
+        border-bottom: 1px solid #a6a6a6;
+    }
+
+    /* ----- trusted professionals add border to section ----- */
+    #trustedProfessionals .addBorderToSection {
+        border-bottom: 1px solid #a6a6a6;
+    }
+
+    /* ----- site stat div ----- */
+    .statDiv {
+        margin-top: 45px;
+    }
+
+    /* ----- footer description ----- */
+    #tg-footer .tg-column .tg-description p {
+        color: #fff !important;
+    }
+    /* ----- footer navbar ----- */
+    .tg-footer-nav ul li {
+        font-size: 1em;
+        font-weight: 200;
+        line-height: 30px;
+        padding: 0 0 0 30px;
+    }
+
+    /* ----- search Bar ----- */
+    #topSearchSection .para {
+        margin-top: 220px;
+    }
+
+    /* ----- search Bar paragraph ----- */
+    #topSearchSection .para p {
+        padding-top: 50px;
+        font-weight: 400 !important;
+        font-size: 20px;
+        line-height: 30px;
+        color: #fff;
+    }
+
+    /* ----- search Bar input bar ----- */
+    #topSearchSection .input-group {
+        margin: 0 0 35px 0;
+    }
+
+    /* ----- sign in up modal customer section ----- */
+    #vendorSignInSection {
+        padding: 30px 0 30px 0;
+        border: 1px dotted #000;
+    }
+
+    /* ----- sign in up modal vendor section ----- */
+    #customerSignInSection {
+        padding: 30px 0 30px 0;
+        border: 1px dotted #000;
+        border-bottom: 0;
+    }
+
+    /* ----- sign in up modal footer content columns ----- */
+    .lightBoxFooter .col-xs-12 {
+        background-color: #272727;
+        color: #fff;
+        border: 1px solid rgb(41, 41, 41);
+    }
+
+    /* ----- sign in up modal footer images ----- */
+    .lightBoxFooter img {
+        width: 30px;
+    }
+
+    /* ----- sign in up modal social media buttons ----- */
+    #signInUpWithSocialAccountDiv {
+        padding-top: 65px;
+    }
+}
+
+
+
+
+/* -------------------- Tablet Display -------------------- */
+@media only screen and (min-width: 600px) and (max-width: 900px) {
+
+    /* ----- home slider ----- */
+    #home-slider .tg-theme-heading {
+        margin-bottom: -15px;
+    }
+
+    /* ----- download App Section Link button ----- */
+    #downloaAppSectionAppLinkBtn {
+        margin: auto;
+        margin-top: 15px;
+    }
+
+    /* ----- trusted professionals ----- */
+    #trustedProfessionals {
+        border-top: 1px solid #a6a6a6;
+        border-bottom: 1px solid #a6a6a6;
+    }
+
+    /* ----- trusted Professionals ----- */
+    #trustedProfessionals .addBorderToSection {
+        border-bottom: 1px solid #a6a6a6;
+    }
+
+    /* ----- search Bar ----- */
+    #topSearchSection .para {
+        margin-top: 160px;
+    }
+
+    /* ----- search Bar paragraph ----- */
+    #topSearchSection .para p {
+        padding-top: 50px;
+        font-weight: 400 !important;
+        font-size: 20px;
+        line-height: 30px;
+        color: #fff;
+    }
+
+    /* ----- search Bar input bar ----- */
+    #topSearchSection .input-group {
+        margin: 0 0 35px 0;
+    }
+
+    /* ----- sign in up modal customer section ----- */
+    #vendorSignInSection {
+        border-style: dotted;
+        padding: 60px 0 60px 0;
+    }
+
+    /* ----- sign in up modal vendor section ----- */
+    #customerSignInSection {
+        border-style: dotted;
+        padding: 60px 0 60px 0;
+    }
+
+    /* ----- sign in up modal footer content div ----- */
+    .lightBoxFooter div {
+        height: 80px;
+        padding-top: 20px;
+        background-color: #272727;
+        color: #fff;
+    }
+
+    /* ----- sign in up modal footer images ----- */
+    .lightBoxFooter img {
+        width: 30px;
+    }
+
+    /* ----- sign in form div (name will be changed in future release) ----- */
+    #signInFormDiv {
+        padding-top: 50px;
+    }
+
+    /* ----- sign up form div (name will be changed in future release) ----- */
+    #signUpFormDiv {
+        padding-top: 30px;
+    }
+
+    /* ----- sign in up modal social media buttons ----- */
+    #signInUpWithSocialAccountDiv {
+        padding-top: 70px;
+        padding-left: 50px
+    }
+
+}
+
+
+
+
+/* -------------------- Desktop Display -------------------- */
+@media only screen and (min-width: 900px) {
+
+    /* used to add space between divs */
+    .spacer {
+        padding-top: 110px;
+    }
+
+    /* ----- pro finder ----- */
+    #proFinder .cont {
+        width: 480px;
+    }
+
+    /* ----- trusted Professionals ----- */
+    #trustedProfessionals .addBorderToSection {
+        border-left: 1px solid #a6a6a6;
+        border-right: 1px solid #a6a6a6;
+    }
+
+    /* ----- sign in up modal customer section ----- */
+    #vendorSignInSection {
+        border-style: dotted;
+        padding: 60px 0 60px 0;
+        border-left: 0px;
+    }
+
+    /* ----- sign in up modal vendor section ----- */
+    #customerSignInSection {
+        border-style: dotted;
+        padding: 60px 0 60px 0;
+    }
+
+    /* ----- sign in up modal footer section ----- */
+    .lightBoxFooter div {
+        height: 60px;
+        padding-top: 20px;
+        background-color: #272727;
+        color: #fff;
+    }
+
+    /* ----- sign in up modal footer images ----- */
+    .lightBoxFooter img {
+        width: 30px;
+    }
+
+    /* ----- sign in form div (name will be changed in future release) ----- */
+    #signInFormDiv {
+        padding-top: 50px;
+    }
+
+    /* ----- sign up form div (name will be changed in future release) ----- */
+    #signUpFormDiv {
+        padding-top: 30px;
+    }
+
+    /* ----- sign in up modal social media buttons ----- */
+    #signInUpWithSocialAccountDiv {
+        padding-top: 110px;
+        padding-left: 50px
+    }
+
+}

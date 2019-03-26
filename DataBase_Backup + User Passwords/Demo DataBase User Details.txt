@@ -1,0 +1,23 @@
+ADMIN
+------
+http://serviceplugged.com/admin/login
+admin@gmail.com
+147147
+
+VENDOR
+-------
+http://serviceplugged.com/vendor/login
+vendor@gmail.com
+147147
+
+CUSTOMER SERVICE
+-----------------
+http://serviceplugged.com/customerService/login
+cs@gmail.com
+147147
+
+CUSTOMER
+---------
+http://serviceplugged.com/login
+customer@gmail.com
+147147

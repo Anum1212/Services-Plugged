@@ -1,0 +1,37 @@
+.clock-canvas {
+	background-color: rgba(255, 255, 255, .1);
+	border-radius: 50%;
+	height: 158px;
+}
+.text {
+	width: auto;
+	color: #333;
+	font-size: 30px;
+	font-weight: normal;
+	position: absolute;
+	top: 20%;
+	left: 32%;
+	text-align: center;
+}
+.text .type-time {
+	font-size: 14px;
+	line-height: 17px;
+	font-family: 'Montserrat', Arial, Helvetica, sans-serif;
+	text-transform: uppercase;
+	border-bottom: 1px solid #333;
+	padding: 0 0 10px;
+	margin: 0 0 10px;
+}
+.text .val {
+	font-size: 60px;
+	line-height: 60px;
+	margin: 0;
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+	.clock-item {margin-bottom: 30px;}
+}
+
+@media (max-width: 767px) {
+	.clock-item {margin: 0px 30px 30px 30px;}
+}

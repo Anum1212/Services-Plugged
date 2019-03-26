@@ -1,0 +1,17 @@
+<link href="{{ asset('css/bootstrap3.css') }}" rel="stylesheet">
+<link href="{{ asset('css/bootstrap-social.css') }}" rel="stylesheet">
+<link href="{{ asset('css/normalize.css') }}" rel="stylesheet">
+<link href="{{ asset('css/font-awesome.min.css') }}" rel="stylesheet">
+<link href="{{ asset('css/icomoon.css') }}" rel="stylesheet">
+<link href="{{ asset('css/prettyPhoto.css') }}" rel="stylesheet">
+<link href="{{ asset('css/swiper.css') }}" rel="stylesheet">
+<link href="{{ asset('css/owl.carousel.css') }}" rel="stylesheet">
+<link href="{{ asset('css/owl.theme.css') }}" rel="stylesheet">
+<link href="{{ asset('css/main.css') }}" rel="stylesheet">
+<link href="{{ asset('css/transitions.css') }}" rel="stylesheet">
+<link href="{{ asset('css/color.css') }}" rel="stylesheet">
+<link href="{{ asset('css/responsive.css') }}" rel="stylesheet">
+<link href="{{ asset('css/home-page.css') }}" rel="stylesheet">
+<link href="{{ asset('css/pageResponsiveness.css') }}" rel="stylesheet">
+<link href="{{ asset('css/blogSlider.css') }}" rel="stylesheet">
+<link href="{{ asset('css/servicesSlider.css') }}" rel="stylesheet">

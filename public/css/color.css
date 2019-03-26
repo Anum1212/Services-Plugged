@@ -1,0 +1,194 @@
+/* =============================================
+
+			Theme Color
+
+============================================= */
+
+a,
+
+p a,
+
+p a:hover,
+
+a:hover,
+
+a:focus,
+
+a:active,
+
+.tg-btn,
+
+.tg-contact-info li a:hover,
+
+.home-slider .item figure figcaption h1 span i,
+
+.tg-swiper-slider .swiper-slide figure figcaption h1 span i,
+
+.tg-member .tg-heading-border h3,
+
+.tg-member .tg-heading-border h3 a,
+
+.tg-socialicons.tg-large li a:hover,
+
+.tg-message-slider .item blockquote:after,
+
+.tg-box.tg-displayblock .tg-heading-border h3,
+
+.tg-box.tg-displayblock .tg-heading-border h3 a,
+
+.tg-postmeta li a:hover,
+
+.tg-info li i,
+
+.tg-info li a:hover,
+
+.tg-tweets li i,
+
+.tg-footer-nav ul li a:hover,
+
+.tg-services-skills .tg-skill-name,
+
+.tg-aboutus .tg-socialicons li a:hover i,
+
+.tg-contact-detail .tg-info > li .tg-socialicons > li a:hover i,
+
+.tg-error h2 span,
+
+.tg-error-content h2,
+
+.tg-post-shareicons .tg-socialicon li a:hover i,
+
+.tg-commingsoon-content h2,
+
+.tg-faq-accorion .panel.active .panel-title,
+
+.text .val,
+
+.tg-nav ul li ul li a:hover,
+
+.tg-nav ul li ul li a:hover:before,
+
+.tg-nav ul li ul li.active a,
+
+.tg-nav ul li ul li.active a:before,
+
+.tg-submenu:after,
+
+.tg-navigation span {
+	color: #8DC63F;}
+
+/* =============================================
+
+			Theme Background Color
+
+============================================= */
+
+.tg-btn:hover,
+
+.tg-socialicons li a:hover,
+
+.tg-checkbox .tg-heading-border:after,
+
+.tg-detail-link,
+
+.tg-service .tg-content .tg-head .tg-heading-border:after,
+
+.tg-services2 .tg-expertise .tg-heading-border:after,
+
+.tg-heading-border:after,
+
+.tg-skill.active .tg-skill-bar,
+
+.tg-skill:hover .tg-skill-bar,
+
+.tg-author-slider .item:after,
+
+.tg-filterbale-nav li a:hover,
+
+.tg-filterbale-nav li a:hover,
+
+.tg-filterbale-nav li a.active,
+
+.tg-post:hover .tg-post-content .tg-btn,
+
+.tg-post:hover .tg-post-content .tg-description:before,
+
+.tg-post:hover .tg-post-content .tg-description:after,
+
+.tg-nav .navbar-toggle:hover,
+
+.tg-nav .navbar-toggle span,
+
+.tg-counter h2:after,
+
+.tg-team-slider .owl-controls.clickable .owl-page.active span:after,
+
+.tg-team-slider .owl-controls.clickable .owl-page:hover span:after,
+
+.tg-pagination ul li a:hover,
+
+.tg-widget ul li a:hover i,
+
+.tg-404search:after,
+
+.tg-404search:before,
+
+.tg-tagsbox .tg-tag:hover,
+
+.tg-reply:hover
+
+
+
+
+
+
+
+
+
+{background:#8DC63F;}
+
+/* =============================================
+
+			Theme Border Color
+
+============================================= */
+
+.tg-checkbox input[type=checkbox]:checked + label,
+
+.tg-theme-heading:before,
+
+.tg-socialicons.tg-large li a:hover,
+
+.tg-post:hover .tg-post-content .tg-description,
+
+body.home #main,
+
+#main,
+
+.tg-aboutus .tg-socialicons li a:hover,
+
+.tg-contact-detail .tg-info > li .tg-socialicons > li a:hover,
+
+.tg-tagsbox .tg-tag:hover,
+
+.tg-post-shareicons .tg-socialicon li a:hover
+
+
+
+
+
+
+
+
+
+
+
+{border-color: #8DC63F;}
+
+.home-slider2:after{border-left-color: #8DC63F;}
+
+.tg-404search{border-top-color: #8DC63F;}
+
+.text .type-time{border-bottom-color: #8DC63F;}
+
+.tg-nav ul li ul{border-top-color: #8DC63F;}

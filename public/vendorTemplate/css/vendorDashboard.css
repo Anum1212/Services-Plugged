@@ -1,0 +1,132 @@
+@media (min-width: 902px) {
+    .vendorImage {
+        margin-left: 66px;
+    }
+
+    .vendorDetails {
+        margin-left: 100px;
+    }
+}
+
+/* ------------------- vendor image upload button ------------------- */
+.btn-file {
+    position: absolute;
+    overflow: hidden;
+    color: #fff;
+    background-color: rgb(183, 51, 51);
+    margin-top: -24%;
+    left: 101.3%;
+}
+
+.btn-file:hover {
+    background-color: #8DC043;
+    color: #fff;
+}
+
+.btn-file input[type=file] {
+    position: absolute;
+    top: 0;
+    right: 0;
+    min-width: 100%;
+    min-height: 100%;
+    font-size: 100px;
+    text-align: right;
+    filter: alpha(opacity=0);
+    opacity: 0;
+    outline: none;
+    cursor: inherit;
+    display: block;
+}
+
+/* ------------------- vendor name ------------------- */
+.vendorName h1 {
+    color: #8DC043 !important;
+}
+
+/* ------------------- about me  ------------------- */
+#about-me {
+    position: relative;
+}
+
+#aboutMeEditBtn {
+    position: absolute;
+    top: 0%;
+    right: 0%
+}
+
+#aboutMeSaveBtn {
+    position: absolute;
+    top: 0%;
+    right: 5%
+}
+
+/* ------------------- education  ------------------- */
+#education {
+    position: relative;
+}
+
+#educationEditBtn {
+    position: absolute;
+    top: 0%;
+    right: 0%
+}
+
+#educationSaveBtn {
+    position: absolute;
+    top: 0%;
+    right: 5%
+}
+
+/* ------------------- skills and language  ------------------- */
+#skills {
+    position: relative;
+}
+
+#skillsEditBtn {
+    position: absolute;
+    top: 0%;
+    right: 0%
+}
+
+#skillsSaveBtn {
+    position: absolute;
+    top: 0%;
+    right: 5%
+}
+
+/* ------------------- portfolio  ------------------- */
+#portfolio {
+    position: relative;
+}
+
+#portfolioEditBtn {
+    position: absolute;
+    top: 5%;
+    right: 0%
+}
+
+#portfolioAddBtn {
+    position: absolute;
+    top: 0%;
+    right: 0%
+}
+
+.vendorPortfolio {
+    position: relative;
+}
+
+.vendorPortfolio:hover .portfolioBtns {
+    display: block;
+}
+
+.portfolioBtns {
+    position: absolute;
+    top: 35%;
+    left: 30%;
+    z-index: 3;
+    display: none
+}
+
+.portfolioBtns #portfolioDeleteBtn {
+    margin-left: 15px
+}

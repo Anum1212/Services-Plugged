@@ -1,0 +1,29 @@
+@media (min-width: 902px) {
+    .vendorImage {
+        margin-left: 66px;
+    }
+
+    .vendorDetails {
+        margin-left: 100px;
+    }
+}
+
+.vendorName h1{
+    color: #8DC043 !important;
+}
+
+.about-me{
+    position: relative;
+}
+
+#aboutMeEditBtn{
+    position: absolute;
+    top: 0%;
+    right: 0%
+}
+
+#aboutMeSaveBtn{
+    position: absolute;
+    top: 0%;
+    right: 5%
+}
